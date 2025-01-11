@@ -1,0 +1,108 @@
+#fc2_footer{
+  opacity:0;
+  color: white;
+}
+body {
+    background-color: rgb(0, 255, 0);
+}
+#botanA {
+    font-size: large;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+#botanB {
+    font-size: large;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+.btn {
+    background-image: url(https://marumaruforesuto.web.fc2.com/turu/kaisi.jpg);
+    width: 150px;
+    height: 75px;
+    background-size: cover;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.btn2 {
+    background-image: url(https://marumaruforesuto.web.fc2.com/turu/honyaku.jpg);
+    width: 150px;
+    height: 75px;
+    background-size: cover;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.btn-on {
+    background-image: url(https://marumaruforesuto.web.fc2.com/turu/teisi.jpg);
+}
+.voiceSelect {
+    font-size: large;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+#content {
+    margin-top: 80px;
+    margin-left: 100px;
+    font-size: xxx-large;
+    line-height: 2;
+    font-weight: 900;
+}
+#sanpul {
+    float: right;
+    margin-right: 200px;
+    font-size: 20px;
+    width: 100px;
+}
+.main {
+    margin-top: 15px;
+}
+.sabu {
+    margin-top: 0;
+    padding-left: 10px;
+    opacity: 1;
+}
+
+.sawarabi-mincho-regular {
+  font-family: "Sawarabi Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.hachi-maru-pop-regular {
+  font-family: "Hachi Maru Pop", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.btnon {
+    background-color: #9a9a9a;
+}
+.btnon2 {
+    filter: brightness(0.8);
+}
+.btnon2 {
+    opacity: 0.6;
+}
+.displayon {
+    margin-top: 0;
+    opacity: 1;
+    font-size: xx-large;
+}
+.displayoff {
+    margin-top: 0;
+    opacity: 0;
+    font-size: xx-large;
+}
+.textwhite{
+    color: white;
+}
+iframe{
+  height: 300px !important;
+}
